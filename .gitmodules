@@ -4,12 +4,18 @@
 [submodule "WeCahtHelper"]
 	path = WeCahtHelper
 	url = https://github.com/binjoo/WeChatHelper
-[submodule "Tekit"]
-	path = Tekit
-	url = https://github.com/binjoo/TeKit
-[submodule "Update"]
-	path = Update
-	url = https://github.com/lizheming/typecho-update.git
 [submodule "Access"]
 	path = Access
-	url = https://github.com/kokororin/typecho-plugin-Access.git
+	url = https://github.com/kokororin/typecho-plugin-Access
+[submodule "Adminer"]
+	path = Adminer
+	url = https://github.com/kokororin/typecho-plugin-adminer
+[submodule "HTMLCompress"]
+	path = HTMLCompress
+	url = https://github.com/kokororin/typecho-plugin-HTMLCompress
+[submodule "Parsedown"]
+	path = HTMLCompress
+	url = https://github.com/kokororin/typecho-plugin-Parsedown
+[submodule "BlockIP"]
+	path = BlockIP
+	url = https://github.com/kokororin/typecho-plugin-BlockIP

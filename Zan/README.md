@@ -1,7 +1,10 @@
 ## 插件说明 ##
- - 版本: v1.0.0
- - 作者: [冰剑](https://github.com/binjoo)
- - 备注：基于Typecho的插件
+版本: v1.0.0
+作者: [冰剑](https://github.com/binjoo)
+
+使用自定义字段和jquery实现带动态计数的赞字链接。
+
+ - 神补刀：添加jquery库引用~
  
 ## 使用方法 ##
 
